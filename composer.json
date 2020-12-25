@@ -1,6 +1,7 @@
 {
   "name": "septech-php/slack",
   "description": "A simple, meaningful Slack client",
+  "license": ["MIT"],
   "authors": [
     {
       "name": "Do Anh Tuan",
