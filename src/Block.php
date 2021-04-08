@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Slack;
+namespace Slack;
 
 use Slack\Block\Button;
 use Slack\Block\CombineWithContext;
